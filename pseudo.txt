@@ -1,0 +1,48 @@
+Scenario 1
+Request positive integer from the user 
+Store integer in list 
+
+If integer is equal to 0 
+	print largest number in list of integers 
+	Stop code
+else  
+	Request another positive integer from the user 
+
+
+Scenario 2
+Request first name from user 
+Store input into variable called “first_name”
+
+Print “first_name”, “ Hello, World” 
+
+
+Scenario 3
+Read integers from imported list 
+Add up the integers and store into variable called “total” 
+Calculate the number of integers in the list and store into a variable called “number” 
+
+Calculate the “average” by dividing the “total” by the “number” 
+Print the “average” 
+
+
+Scenario 4
+Has the grocery been bought | Yes 
+
+Read imported groceries in list 
+
+If the grocery has been purchased 
+	remove grocery from the list 
+If the grocery has not been purchased 
+	Store grocery in a second list 
+
+Print second grocery list in alphabetical order 
+
+
+Scenario 5
+Request X, Y from the user 
+
+Add X and Y and store into variable called S
+Divide S by 2 and store into variable called A
+Multiply X and Y and store into variable called P 
+
+Print S, A, P 
